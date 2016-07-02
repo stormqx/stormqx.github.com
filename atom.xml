@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-06-26T07:58:23.632Z</updated>
+  <updated>2016-07-02T15:06:48.941Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,54 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>blog建立计划</title>
-    <link href="http://yoursite.com/2016/06/26/blog%E5%BB%BA%E7%AB%8B%E8%AE%A1%E5%88%92/"/>
-    <id>http://yoursite.com/2016/06/26/blog建立计划/</id>
-    <published>2016-06-26T07:52:30.000Z</published>
-    <updated>2016-06-26T07:58:23.632Z</updated>
+    <title>hello  独立博客</title>
+    <link href="http://yoursite.com/2016/07/02/hello-%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2016/07/02/hello-独立博客/</id>
+    <published>2016-07-02T13:30:51.000Z</published>
+    <updated>2016-07-02T15:06:48.941Z</updated>
     
-    <content type="html">&lt;p&gt;兴趣遍地都是，专注和持之以恒才是真正的稀缺。&lt;/p&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;博客测试！一会学习markdown语法！&lt;/p&gt;
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;兴趣遍地都是，专注和持之以恒才是真正的稀缺。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;为什么是独立博客？&quot;&gt;&lt;a href=&quot;#为什么是独立博客？&quot; class=&quot;headerlink&quot; title=&quot;为什么是独立博客？&quot;&gt;&lt;/a&gt;为什么是独立博客？&lt;/h1&gt;&lt;p&gt;四月中旬的&lt;a href=&quot;http://weibo.com/p/230418aef53d4b0102wkou&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;这条微博&lt;/a&gt;已经提到了独立博客计划，但是当时由于毕设的原因,博客计划总是被推迟。现在虽然在南京实习，但是平时的工作和我预期中的&lt;strong&gt;相去甚远&lt;/strong&gt;，所幸每天抽空来建一个独立博客记录成长，整个过程还是挺有趣的。因此第一份工资还没发，打算发了工资在买域名哈！~&lt;/p&gt;
+&lt;p&gt;之所以要做一个独立博客，我觉得应该是考虑到以下几个因素。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;独立，隐蔽，自由。&lt;br&gt;成长的记录。&lt;br&gt;回馈精神。&lt;br&gt;打发无聊时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;某些平台的博客上面广告满天飞，影响心情。而且独立博客不会与好友相关联，不会被某些人际关系干扰。自由度高是肯定的，想改哪里改哪里！就像开源社区一样，我们不断从开源项目中获得便利，我希望能做出一些回馈。我深知自己才疏学浅，所以自己在学习过程中会记录下的问题解决方案，方便自己查看。&lt;/p&gt;
+&lt;h1 id=&quot;Hexo&quot;&gt;&lt;a href=&quot;#Hexo&quot; class=&quot;headerlink&quot; title=&quot;Hexo&quot;&gt;&lt;/a&gt;Hexo&lt;/h1&gt;&lt;p&gt;关于独立博客的搭建，网上的教程非常详细，分享几个自己在搭建过程中参考的博客:&lt;a href=&quot;http://wuchong.me/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Jark’s Blog&lt;/a&gt;, &lt;a href=&quot;http://sunwhut.com/2015/10/30/buildBlog/#more&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;如何利用GitHub Pages和Hexo快速搭建个人博客&lt;/a&gt;,&lt;a href=&quot;http://ibruce.info/2013/11/22/hexo-your-blog/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hexo 你的博客&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;对博客未来的计划&quot;&gt;&lt;a href=&quot;#对博客未来的计划&quot; class=&quot;headerlink&quot; title=&quot;对博客未来的计划&quot;&gt;&lt;/a&gt;对博客未来的计划&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;深入学习技术，分享锻炼总结能力&lt;br&gt;生活中的所见所感&lt;br&gt;踩过的坑 &amp;amp; 读过的书&lt;br&gt;在南大的生活 &amp;amp; 公司实习生活&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;兴趣遍地都是，专注和持之以恒才是真正的稀缺。&lt;/p&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;兴趣遍地都是，专注和持之以恒才是真正的稀缺。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;为什么是独立博客？&quot;&gt;&lt;a href=&quot;#为什么是独立博客？&quot; class=&quot;headerlink&quot; title=&quot;
     
     </summary>
+    
+      <category term="生活随笔" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
       <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
     
-      <category term="NexT" scheme="http://yoursite.com/tags/NexT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/06/26/hello-world/"/>
-    <id>http://yoursite.com/2016/06/26/hello-world/</id>
-    <published>2016-06-26T05:31:51.492Z</published>
-    <updated>2016-06-26T05:31:51.492Z</updated>
-    
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
+      <category term="独立博客" scheme="http://yoursite.com/tags/%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
